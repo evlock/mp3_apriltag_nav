@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/elockwood/ros2_ws/install/usb_cam/include/**",
+        "/home/elockwood/ros2_ws/install/stereo_image_proc/include/**",
+        "/home/elockwood/ros2_ws/install/image_proc/include/**",
+        "/home/elockwood/ros2_ws/install/tracetools_image_pipeline/include/**",
+        "/home/elockwood/ros2_ws/install/image_view/include/**",
+        "/home/elockwood/ros2_ws/install/image_rotate/include/**",
+        "/home/elockwood/ros2_ws/install/image_publisher/include/**",
+        "/home/elockwood/ros2_ws/install/depth_image_proc/include/**",
+        "/home/elockwood/ros2_ws/install/image_transport/include/**",
+        "/home/elockwood/ros2_ws/install/hbird_msgs/include/**",
+        "/home/elockwood/ros2_ws/install/camera_info_manager/include/**",
+        "/home/elockwood/ros2_ws/install/camera_calibration_parsers/include/**",
+        "/home/elockwood/ros2_ws/install/apriltag_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/image_common/camera_calibration_parsers/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/image_common/camera_info_manager/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/image_common/image_transport/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/image_pipeline/depth_image_proc/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/image_pipeline/image_proc/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/image_pipeline/image_publisher/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/image_pipeline/image_rotate/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/image_pipeline/image_view/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/image_pipeline/stereo_image_proc/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/image_pipeline/tracetools_image_pipeline/include/**",
+        "/home/elockwood/ros2_ws/src/AprilTag-ROS-2/usb_cam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

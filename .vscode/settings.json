@@ -1,0 +1,24 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/elockwood/ros2_ws/install/hbird_webots/lib/python3.10/site-packages",
+    "/home/elockwood/ros2_ws/install/hbird_navigation/lib/python3.10/site-packages",
+    "/home/elockwood/ros2_ws/install/hbird_msgs/local/lib/python3.10/dist-packages",
+    "/home/elockwood/ros2_ws/install/camera_calibration/lib/python3.10/site-packages",
+    "/home/elockwood/ros2_ws/install/apriltag_navigation/lib/python3.10/site-packages",
+    "/home/elockwood/ros2_ws/install/apriltag_nav/lib/python3.10/site-packages",
+    "/home/elockwood/ros2_ws/install/apriltag_msgs/local/lib/python3.10/dist-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/elockwood/ros2_ws/install/hbird_webots/lib/python3.10/site-packages",
+    "/home/elockwood/ros2_ws/install/hbird_navigation/lib/python3.10/site-packages",
+    "/home/elockwood/ros2_ws/install/hbird_msgs/local/lib/python3.10/dist-packages",
+    "/home/elockwood/ros2_ws/install/camera_calibration/lib/python3.10/site-packages",
+    "/home/elockwood/ros2_ws/install/apriltag_navigation/lib/python3.10/site-packages",
+    "/home/elockwood/ros2_ws/install/apriltag_nav/lib/python3.10/site-packages",
+    "/home/elockwood/ros2_ws/install/apriltag_msgs/local/lib/python3.10/dist-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ]
+}
